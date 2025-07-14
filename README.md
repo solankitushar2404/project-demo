@@ -112,16 +112,6 @@
 - 🔗 [GitHub Repo](https://github.com/solankitushar2404/TatvaSoft_Summer_Internship.git)
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solankitushar2404&show_icons=true&theme=github_dark" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=solankitushar2404&theme=github-dark&hide_border=false" width="45%" />
-</p>
-
 ---
 
 ## 🌐 Languages Known
